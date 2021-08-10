@@ -9,4 +9,23 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## 
+# Report Title
+
+# Subsection A - Health Effects
+
+```{r}
+# some code reading from an rds here
+```
+
+<!-- This should be an inline code thing -->
+As you can see, there are 336,776 rows here.
+
+<!-- This should be in backticks -->
+This is because the nhanes data set is very large.
+
+<!-- This should have parentheses -->
+We can conduct operations on this data by using the `mutate` function.
+
+Other horrendous style guide violations that I can't think of.
+
+R Markdown files don't really have that many violations, huh.
