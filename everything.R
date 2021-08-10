@@ -6,4 +6,5 @@
 
 # And finally we style according to style guide.
 
+# Load data
 read_csv("file.csv")
