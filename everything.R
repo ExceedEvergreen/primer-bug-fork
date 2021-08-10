@@ -6,5 +6,5 @@
 
 # And finally we style according to style guide.
 
-# Load data
+# Load data, planning on weather.
 read_csv("file.csv")
