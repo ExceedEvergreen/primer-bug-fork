@@ -2,7 +2,7 @@
 title: "index"
 author: "Anmay Gupta"
 date: "8/9/2021"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
@@ -29,3 +29,5 @@ We can conduct operations on this data by using the `mutate` function.
 Other horrendous style guide violations that I can't think of.
 
 R Markdown files don't really have that many violations, huh.
+
+<script src="https://gist.github.com/AnmayG/dd23ee27fd5cfe4481d05b2b61742676.js"></script>

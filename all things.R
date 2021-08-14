@@ -53,7 +53,7 @@ num_zips <- nrow(county_to_zip)
 print(paste0(your_county_name, " has ", num_zips,
              " zip codes located within it. It will take at least ",
              num_zips*3.35, " seconds to finish creating the map."))
-print("I'd suggest doing somethign else because this is going to take a while.")
+print("I'd suggest doing something else because this is going to take a while.")
 
 # Step 2: Get all of the stations within that county by doing a bunch of ZIP
 # code requests. This will take a while due to the API limit.
